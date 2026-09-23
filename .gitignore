@@ -60,3 +60,5 @@ fabric.properties
 
 Tools/
 Tools/**/
+
+.vs/
